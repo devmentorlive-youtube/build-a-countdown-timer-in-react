@@ -7,6 +7,9 @@ module.exports = {
   important: true,
   theme: {
     extend: {
+      fontFamily: {
+        mono: ["IBM Plex Mono", "monospace"],
+      },
       colors: {},
     },
   },

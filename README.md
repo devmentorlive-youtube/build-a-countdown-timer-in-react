@@ -1,46 +1,19 @@
-# DevmentorLive NextJS Starter Template
+# Countdown Timer in React and NextJS
 
-## Getting Started
+A huge thank you for Netlify for hosting the demo to this lesson so it will always be available to you!
 
-To create an app using this starter
+![Powered by Netlify](https://raw.githubusercontent.com/devmentorlive-youtube/0001-datatables-in-react-sort-filter-page/main/public/powered-by-netlify-light.png)
 
-```bash
-npx create-next-app your-app-name -e https://github.com/devmentorlive-youtube/next-tailwind-starter
-```
+Building a countdown timer will teach you many things about coding interfaces in React, and I needed one for the devmentorlive streams.
 
-## This template uses [TailwindCSS](https://tailwindcss.com/)!
+## What you will learn from building this project
 
-## To run your server (development)
+-
 
-```
-cd your-app-name
-npm run dev
-```
+## See this in action!
 
-## Folder structure
+https://countdown-timer-in-reactjs.netlify.app/
 
-```bash
-src
-├── features
-├── pages
-│   └── index.jsx
-├── ui
-└── index.jsx
-```
+## Watch the video tutorial on youtube
 
-This app uses a modified/simplified version of [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/), better suited for modern web development.
-
-
-### /ui
-
-This folder is for your "lego blocks", single purpose React components that can be combined together to make more complicated components, known as Features
-
-
-### /features
-
-This folder is for more complex components, or features. Features are created by composing many UI components and usually, state
-
-
-### /pages
-
-This folder is for navigable components. A router automagically creates urls for anything in this folder. To create a page, combine features and ui components and put them in a component in this page. Typically state is managed in the feature, and any props that come from the server are passed through pages via the return object from getServerSideProps. Those props are then passed down into features as props, or put into a context.
+- coming soon
