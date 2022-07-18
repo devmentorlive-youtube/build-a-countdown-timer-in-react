@@ -1,7 +1,8 @@
 # Countdown Timer in React and NextJS
 
 If you enjoy my work or use my code or learn from me, please consider giving me a buck or two or five!
-https://ifyalikeit.com/get-it/62d4f777349d8b87506f95b0
+
+❤️ https://ifyalikeit.com/get-it/62d4f777349d8b87506f95b0
 
 Your support helps me be able to spend more time making stuff for you, and of course, if you can't, it's no problem, the source code and videos are free, from me to you! Pay it forward some day!
 
